@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;		public class FrubbState  {				public function FrubbState() {			trace("FRUBB seems happy at the moment");		}	}	}
